@@ -10,11 +10,11 @@
 
 * Summary: The basic problem of probability and statistics are inversed.
 
-  ![image-20200704172727035](./Chapter1.Relationship.png)
+  ![](Chapter1.Relationship.png)
 
 # 2. Different language of Statisticans and computer scientists
 
-![image-20200704173024622](./Chapter1.Terms.png)
+![](Chapter1.Terms.png)
 
 # 3. Some Notation and Formula
 
